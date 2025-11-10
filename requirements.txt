@@ -1,0 +1,9 @@
+streamlit
+torch
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-core
+sentence-transformers
+scikit-learn
+huggingface-hub
