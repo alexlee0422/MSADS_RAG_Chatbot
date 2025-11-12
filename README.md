@@ -30,3 +30,11 @@ The fine-tuned embedding model is the core of our RAG pipeline. When a user asks
 The final application is built with a **Streamlit** user interface. This provides a simple, interactive chat window for users to ask questions.
 
 The chatbot is deployed live and is publicly accessible via **Streamlit Community Cloud**, which integrates directly with the GitHub repository.
+
+---
+
+## 💬 Try the Chatbot
+
+You can test the live chatbot here:
+
+**[https://msadsragchatbot-ar8np6h5rfwntffb4yb9my.streamlit.app/](https://msadsragchatbot-ar8np6h5rfwntffb4yb9my.streamlit.app/)**
